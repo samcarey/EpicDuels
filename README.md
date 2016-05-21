@@ -1,3 +1,13 @@
+Multiplayer, turn-based "board" game that I'm developing to play with friends far away.
+
+
+This repository was originally duplicated from underscorediscovery/realtime-multiplayer-in-html5 and then edited by me to become...
+
+EPIC DUELS!!
+============
+
+Original README below:
+
 Realtime Multiplayer In HTML5
 =============================
 
